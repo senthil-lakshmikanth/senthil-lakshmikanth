@@ -7,4 +7,4 @@
 ## :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: If Found :mag_right: anywhere,.. :moneybag:
 
 ## Inform :mobile_phone_off: :
-[http://i.imgur.com/tXSoThF.png]
+[<img align="left" alt="juno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
