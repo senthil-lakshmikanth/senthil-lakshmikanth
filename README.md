@@ -15,4 +15,4 @@
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">](https://www.facebook.com/profile.php?id=100011010790797)
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg">](https://www.facebook.com/profile.php?id=100011010790797)
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AFacebook_Home_logo_old.svg&psig=AOvVaw2oep74XigK7fvLcBEh-NZA&ust=1623600325947000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiNw9e8kvECFQAAAAAdAAAAABAJ">
