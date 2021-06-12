@@ -13,4 +13,4 @@
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">](https://discord.com/channels/@Senthil-Lakshmikanth)
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">](https://www.facebook.com/profile.php?id=100011010790797)
+[<img align="left" width="22px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/facebook.svg">](https://www.facebook.com/profile.php?id=100011010790797)
