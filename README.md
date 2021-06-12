@@ -9,4 +9,4 @@
 ## Inform :mobile_phone_off: :
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />([https://www.instagram.com/senthil_dot_adhu_idhu/)
 [<img src="http://i.imgur.com/P3YfQoD.png"/>]([https://www.instagram.com/senthil_dot_adhu_idhu/)
-<a style="color:purple" href="https://www.instagram.com/senthil_dot_adhu_idhu/" ><i class="fab fa-instagram">
+<img src="https://www.instagram.com/senthil_dot_adhu_idhu/" ><i class="fab fa-instagram">
