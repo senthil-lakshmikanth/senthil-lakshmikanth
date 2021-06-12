@@ -10,3 +10,5 @@
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/senthil_dot_adhu_idhu/)
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](https://t.me/senthil_dot_adhu_idhu)
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:lakshmikanthsenthil@gmail.com)
+
+<i class="icon-instagram"></i> icon-instagram
