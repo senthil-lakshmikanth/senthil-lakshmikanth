@@ -5,7 +5,7 @@
 
 <h3 align="left"> :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: If Found :mag_right: anywhere,.. :moneybag: </h3>
 
-<h3 align="right"> Inform :mobile_phone_off: : <h3>
+<h2 align="left"> Inform :mobile_phone_off: : <h2>
 
 [<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/facebook.svg">](mailto:lakshmikanthsenthil@gmail.com) 
 [<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/instagram.svg">](https://www.instagram.com/senthil_dot_adhu_idhu/)
