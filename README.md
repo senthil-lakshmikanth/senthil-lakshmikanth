@@ -11,5 +11,6 @@
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](https://t.me/senthil_dot_adhu_idhu)
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:lakshmikanthsenthil@gmail.com)
 
-<i class="icon-facebook-sign"></i> icon-facebook-sign
-<img src=icon-facebook-sign"></i> icon-facebook-sign
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
