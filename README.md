@@ -7,6 +7,6 @@
 ## :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: If Found :mag_right: anywhere,.. :moneybag:
 
 ## Inform :mobile_phone_off: :
-[<img width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/senthil_dot_adhu_idhu/)
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](https://t.me/senthil_dot_adhu_idhu)
-[<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](lakshmikanthsenthil@gmail.com)
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">](https://www.instagram.com/senthil_dot_adhu_idhu/)
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](https://t.me/senthil_dot_adhu_idhu)
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:lakshmikanthsenthil@gmail.com)
