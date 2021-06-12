@@ -19,4 +19,4 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-<img href="10165394971530077750.svg">
+<img src="file:///C:/Users/laksh/Downloads/10165394971530077750.svg">
