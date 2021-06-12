@@ -3,7 +3,7 @@
 
 <h3 align="center"> <img src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/Glitch.gif" /></h3>
 
-<h4 align="left"> :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: If Found :mag_right: anywhere,.. :moneybag: </h4>
+<h2 align="left"> :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: If Found :mag_right: anywhere,.. :moneybag: </h2>
 
 ## Inform :mobile_phone_off: :
 [<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/facebook.svg">](mailto:lakshmikanthsenthil@gmail.com) 
