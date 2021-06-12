@@ -7,4 +7,4 @@
 ## :heavy_dollar_sign::heavy_dollar_sign::heavy_dollar_sign: If Found :mag_right: anywhere,.. :moneybag:
 
 ## Inform :mobile_phone_off: :
-https://github.com/wle8300/instagram-logo/blob/master/logo.svg
+[http://i.imgur.com/tXSoThF.png]
