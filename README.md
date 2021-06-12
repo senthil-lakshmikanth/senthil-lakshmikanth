@@ -1,5 +1,5 @@
 <h1 align="center"> :construction: MISSING :stop_sign: </h1>
-<h3 align="center"> LOST in Computer :keyboard: World :earth_africa: </h3>
+<h2 align="center"> LOST in Computer :keyboard: World :earth_africa: </h3>
 
 <div style="text-align:center"><img src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/Glitch.gif" /></div>
 
