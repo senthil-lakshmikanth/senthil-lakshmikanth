@@ -13,8 +13,4 @@
 
 [<img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg">](https://discord.com/channels/@Senthil-Lakshmikanth)
 
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
-</a>
-
-<img src="file:///C:/Users/laksh/Downloads/10165394971530077750.svg">
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg">](https://www.facebook.com/profile.php?id=100011010790797)
