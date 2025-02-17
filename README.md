@@ -13,4 +13,6 @@
 [<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/gmail.svg">](mailto:lakshmikanthsenthil@gmail.com) 
 [<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/discord.svg">](https://discord.com/channels/@Senthil-Lakshmikanth)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/senthil-lakshmikanth?theme=dark)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/senthil-lakshmikanth?ext=activity&border=0)
+
