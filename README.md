@@ -7,11 +7,8 @@
 
 ## Inform :mobile_phone_off: : 
 
-[<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/facebook.svg">](https://www.facebook.com/profile.php?id=100011010790797) 
-[<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/instagram.svg">](https://www.instagram.com/senthil_dot_adhu_idhu/)
-[<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/telegram.svg">](https://t.me/senthil_dot_adhu_idhu) 
-[<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/gmail.svg">](mailto:lakshmikanthsenthil@gmail.com) 
-[<img align="right" width="25px" src="https://github.com/Senthil-Lakshmikanth/Senthil-Lakshmikanth/blob/main/discord.svg">](https://discord.com/channels/@Senthil-Lakshmikanth)
+![Programming]([https://leetcard.jacoblin.cool/senthil-lakshmikanth?border=0](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966
+))
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/senthil-lakshmikanth?border=0)
